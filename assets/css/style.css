@@ -1,0 +1,33 @@
+body{
+	background:black;
+	color:black;
+
+}
+
+header{
+	text-align:center;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+input[type='submit']{
+	background:black;
+	border:0;
+	color:#fff;
+    cursor:pointer;
+    padding:15px 20px;
+}
+
+#results h3{
+	background: black;
+}
+
+#container{
+	width:65%;
+	margin:auto; 
+    padding:30px;
+    overflow:auto;
+    background:#199fdb;
+	
+}
